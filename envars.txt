@@ -1,0 +1,9 @@
+export AIRTABLE_TOKEN=keykoj2y3UVw1Ybfc
+export AIRTABLE_URL=https://api.airtable.com/v0/appLqptyqRkryLgXI/Table%201
+export CHROMEDRIVER_PATH=C:\\Program Files (x86)\\Chromedriver\\chromedriver.exe
+export GOOGLE_CHROME_BIN="C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe
+export SERVER_IP_DEEMED=45.116.207.203
+export SERVER_IP_HILL=45.116.207.79
+export TWILIO_ACCOUNT_SID=AC866197abd801db0d3c812fc21502c001
+export TWILIO_AUTH_TOKEN=cfafe082fbbb7258fcc917798fa55aa2
+export TWILIO_FROM_CONTACT=whatsapp:+14155238886

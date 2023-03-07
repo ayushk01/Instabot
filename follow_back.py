@@ -16,5 +16,5 @@ bot.login(username, password)
 
 while True:
     bot.follow_back_likers(
-        post='https://www.instagram.com/p/CGsQ8afJ7M7Znl56ClUQxijJ_Ec6elC-__l09Y0/')
+        post='https://www.instagram.com/p/B6QZyM8nhEI1aGnFtHkhnipAXqRF3CbLdZ8gkc0/')
     time.sleep(600)
